@@ -1,1 +1,1 @@
-feh ~/pictures *
+urxvt -e echo "hitler did nothing wrong"
