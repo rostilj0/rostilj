@@ -1,1 +1,2 @@
-urxvt -e echo "hitler did nothing wrong"
+clear
+echo "hitler did nothing wrong"
